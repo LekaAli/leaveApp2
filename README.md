@@ -1,4 +1,4 @@
-# LeaveApp2
+# LeaveApp
 Leave application that allows an employee to apply for a leave
 
 # How to Install Dependencies
@@ -16,7 +16,7 @@ python manage.py createsuperuser <br/>
 Follows the prompts to create the user account up until it is successfully created <br/>
 
 # How to Run Application
-cd leaveApp2 <br/>
+cd leaveApp <br/>
 cd leave <br/>
 workon leave_env <br/>
 python manage.py runserver
